@@ -2,7 +2,7 @@
 We recently made a single-/multiplayer game. Check it out, it's fun!    
 @Raybod8765 is the developer!    
 You can access RayGamix anytime at https://raygamix.github.io/launcher.    
-Downloads? You can just go to https://raygamix.gtihub.io/download to download RayGamix!*   
+Downloads? You can just go to https://raygamix.github.io/download to download RayGamix!*   
 <H6><small><small><small><small><small>*On devices other than Windows, just visit https://raygamix.github.io/launcher to play! It is the same thing as the EXE file!</small></small></small></small></small></H6>
 <H6><small><small><small><small><small><small>RayGamix Beta 0.9. Official releace June/July.</small><small></small></small></small></small></small></H6>
  <img src="https://raygamix.github.io/logo.png">
